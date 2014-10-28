@@ -4,5 +4,8 @@
     <string name="app_name">MultiScreenUI</string>
     <string name="fragment1Title">Screen 1 fragment</string>
 	<string name="fragment2Title">Screen 2 fragment</string>
+	<string name="label">Type here:</string>
+	<string name="okbutton">OK</string>
+	<string name="cancelbutton">Cancel</string>
 	
 </resources>

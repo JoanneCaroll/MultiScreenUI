@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiScreenUI</string>
+    <string name="fragment1Title">Screen 1 fragment</string>
+	<string name="fragment2Title">Screen 2 fragment</string>
+	
+</resources>

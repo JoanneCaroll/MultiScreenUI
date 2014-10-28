@@ -5,7 +5,7 @@
     android:orientation="vertical" >
     
     <TextView
-        android:id="@+id/fragmentTitle"
+        android:id="@+id/fragment1Title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/fragment1Title"
