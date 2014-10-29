@@ -1100,6 +1100,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
+        public static final int cancel=0x7f05004f;
         public static final int cancelbutton=0x7f050043;
         public static final int categname=0x7f050047;
         public static final int category=0x7f050048;
@@ -1117,6 +1118,8 @@ containing a value of this type.
         public static final int entry=0x7f050042;
         public static final int expand_activities_button=0x7f050026;
         public static final int expanded_menu=0x7f05002c;
+        public static final int fragment1Title=0x7f05004d;
+        public static final int fragment2Title=0x7f050050;
         public static final int fragmentContainer=0x7f05004b;
         public static final int headlines1=0x7f050045;
         public static final int headlines2=0x7f050046;
@@ -1134,6 +1137,7 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int ok=0x7f05004e;
         public static final int okbutton=0x7f050044;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
@@ -1219,8 +1223,11 @@ containing a value of this type.
         public static final int category_fragment=0x7f03001a;
         public static final int fragment_container=0x7f03001b;
         public static final int list_category=0x7f03001c;
-        public static final int main=0x7f03001e;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
+        public static final int main=0x7f030021;
+        public static final int screen1_fragment=0x7f03001d;
+        public static final int screen1_fragment_relative=0x7f03001e;
+        public static final int screen2_fragment=0x7f03001f;
+        public static final int support_simple_spinner_dropdown_item=0x7f030020;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
