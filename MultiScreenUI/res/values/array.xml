@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="regions">
+        <item>ARMM</item>
+        <item>CAR</item>
+        <item>NCR</item>
+        <item>Region I</item>
+        <item>Region II</item>
+        <item>Region III</item>
+        <item>Region IV-A</item>
+        <item>Region IV-B</item>
+        <item>Region V</item>
+        <item>Region VI</item>
+        <item>Region VII</item>
+        <item>Region VIII</item>
+        <item>Region IX</item>
+        <item>Region X</item>
+        <item>Region XI</item>
+        <item>Region XII</item>
+        <item>Region XIII</item>
+        
+   </string-array>
+</resources>

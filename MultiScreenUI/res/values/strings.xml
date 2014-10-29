@@ -4,8 +4,11 @@
     <string name="app_name">MultiScreenUI</string>
     <string name="fragment1Title">Screen 1 fragment</string>
 	<string name="fragment2Title">Screen 2 fragment</string>
-	<string name="label">Type here:</string>
+	<string name="label">Search:</string>
 	<string name="okbutton">OK</string>
 	<string name="cancelbutton">Cancel</string>
-	
+	<string name="choosecategory">Choose category:</string>
+	<string name="categoryname">Category:</string>
+	<string name="setregion">Choose Region:</string>
+	<string name="region">(-Choose one-)</string>
 </resources>
